@@ -1,6 +1,6 @@
 package dan.hotico.console;
 
-import dan.hotico.AppConfig;
+import dan.hotico.config.AppConfig;
 import dan.hotico.Game;
 import dan.hotico.MessageGenerator;
 import dan.hotico.NumberGenerator;
